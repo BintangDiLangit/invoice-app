@@ -5,7 +5,7 @@
 Invoice Aira is a lightning-fast application that simplifies the process of generating professional Invoices and Receipts for your business needs. 
 
 Simply fill a form, select a template and generate your document!
-Visit the website at https://invoiceairatech.id
+Visit the website at https://invoice.airatech.id
 
 ### Features
 
@@ -19,7 +19,7 @@ Visit the website at https://invoiceairatech.id
 
 ### Getting Started
 
-To start using Invoice Aira, simply visit [Invoice Airatech.id](https://www.invoiceairatech.id) . You can begin generating invoices immediately. 
+To start using Invoice Aira, simply visit [Invoice Airatech.id](https://www.invoice.airatech.id) . You can begin generating invoices immediately. 
 
 ### Why did I build this?
 Over the years I've run a couple of businesses where I'd typically have to make invoices and receipts. 
