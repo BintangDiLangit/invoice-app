@@ -1,17 +1,17 @@
-## Invoice Dragon
+## Invoice Aira
 
 > Generate invoices and receipts simply by filling a form.
 
-Invoice Dragon is a lightning-fast application that simplifies the process of generating professional Invoices and Receipts for your business needs. 
+Invoice Aira is a lightning-fast application that simplifies the process of generating professional Invoices and Receipts for your business needs. 
 
 Simply fill a form, select a template and generate your document!
-Visit the website at https://invoicedragon.com
+Visit the website at https://invoiceairatech.id
 
 ### Features
 
-- **Speed and Efficiency:** Invoice Dragon is designed to streamline the invoicing process, ensuring that you can create invoices quickly and efficiently. It focuses solely on generating invoices in the most time-effective manner.
+- **Speed and Efficiency:** Invoice Aira is designed to streamline the invoicing process, ensuring that you can create invoices quickly and efficiently. It focuses solely on generating invoices in the most time-effective manner.
 
-- **Speed and Efficiency:** Invoice Dragon is time efficient. You only need to fill your details into a form, and we automate the rest.
+- **Speed and Efficiency:** Invoice Aira is time efficient. You only need to fill your details into a form, and we automate the rest.
 
 - **Customization Options:** Offers 4 different templates to choose from. More templates coming soon.
 
@@ -19,7 +19,7 @@ Visit the website at https://invoicedragon.com
 
 ### Getting Started
 
-To start using Invoice Dragon, simply visit [Invoice Dragon.com](https://www.invoicedragon.com) . You can begin generating invoices immediately. 
+To start using Invoice Aira, simply visit [Invoice Airatech.id](https://www.invoiceairatech.id) . You can begin generating invoices immediately. 
 
 ### Why did I build this?
 Over the years I've run a couple of businesses where I'd typically have to make invoices and receipts. 
@@ -30,8 +30,8 @@ So I decided to build this app to ensure invoices and receipts can be built, rev
 Yes please! Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to submit a PR :)
 
 ### License
-Invoice Dragon is a free software application released under the MIT License. 
+Invoice Aira is a free software application released under the MIT License. 
 
 ---
 
-Thank you for choosing Invoice Dragon! We hope this application simplifies your invoicing process and saves you valuable time. If you have any further questions or need assistance, please don't hesitate to reach out. Happy invoicing!
+Thank you for choosing Invoice Aira! We hope this application simplifies your invoicing process and saves you valuable time. If you have any further questions or need assistance, please don't hesitate to reach out. Happy invoicing!
